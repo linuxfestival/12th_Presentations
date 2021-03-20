@@ -15,7 +15,7 @@
 |Docker|Ahmad Anvari| [-]() | [Aparat](https://www.aparat.com/v/maETi?playlist=893422) |
 |Open Source: From Past To The Future|Khashayar Danesh| [-]() | [Aparat](https://www.aparat.com/v/0UhZm?playlist=893422) |
 |Introduction to self-driving cars and Autoware|Mahdi Javanmardi| [Slide](https://github.com/linuxfestival/12th_Presentations/blob/main/slides/Introduction%20to%20self-driving%20cars%20and%20Autoware.pdf)| [Aparat](https://www.aparat.com/v/RBqET?playlist=893422) |
-|How can we make the internet safer?(Open Bug Bounty Project)|Mohammad Amin Karimian| [Slide](https://github.com/linuxfestival/12th_Presentations/blob/main/slides/How%20can%20we%20make%20the%20internet%20safer%3F(Open%20Bug%20Bounty%20Project).pdf) | [Aparat](https://www.aparat.com/v/maETi?playlist=893422) |
+|How can we make the internet safer?(Open Bug Bounty Project)|Mohammad Amin Karimian| [Slide](https://github.com/linuxfestival/12th_Presentations/blob/main/slides/How%20can%20we%20make%20the%20internet%20safer%3F(Open%20Bug%20Bounty%20Project).pdf) | [Aparat](https://www.aparat.com/v/wnNdH?playlist=893422) |
 |Observability in modern software architecture|Mohammad Ali Tofighi| [Slide](https://github.com/linuxfestival/12th_Presentations/blob/main/slides/Observability_in_Modern_Software_Architectures.pdf) | [Aparat](https://www.aparat.com/v/lAFEG?playlist=893422) |
 |Content Delivery Network (CDN)|Majid Alborji| [Slide](https://github.com/linuxfestival/12th_Presentations/blob/main/slides/CDN.pdf)| [Aparat](https://www.aparat.com/v/dgA1a?playlist=893422) |
 |Penetration Testing with Linux|Kourosh Rajabzadeh| [-]()| [Aparat](https://www.aparat.com/v/kyc74?playlist=893422) |
